@@ -1,0 +1,2 @@
+#!/bin/sh
+uglifycss --ugly-comments css/normalize.css css/main.css > css/style.min.css
