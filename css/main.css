@@ -101,6 +101,7 @@ body {
         background-repeat: no-repeat;
         text-decoration: none;
         color: black;
+        text-shadow: 1px 1px #ccc;
     }
 
     .links a.linkedin {
